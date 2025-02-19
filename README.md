@@ -39,9 +39,9 @@ python -m venv venv
   source venv/bin/activate
   ```
 
-### Instalando as dependências:
+### Instalando as bibliotecas:
 ```bash
-pip install -r requirements.txt
+pip install ultralytics opencv-python pandas matplotlib
 ```
 
 ## 🔥 Treinando o Modelo
